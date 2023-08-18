@@ -1,0 +1,1 @@
+Created interative dashboards . Used complex prameters to drill down in worksheet and customization using filters and slicers. Used different types of customized visualization(bar chart, pie chart , donut chart, line chart, etc).
